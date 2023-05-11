@@ -1,14 +1,36 @@
 # MLBoost
 Material related to YouTube channel MLBoost https://www.youtube.com/@MLBoost
 
-IMPORTAN: If you have any questions about the contents of this repo, feel free to post it in the community section of the channel here https://www.youtube.com/@MLBoost/community
+**IMPORTANT**: If you have any questions about the contents of this repo, feel free to post it as a video comment or a GitHub issue. I will make sure to reply asap.
+<br> 
 
+# Table of Contents
 
-# Video 4
-Link: https://www.youtube.com/watch?v=ep3sQjXjPEg <br> 
+# Install
+
+# Episode 4: <br> 
+Link: https://youtu.be/ep3sQjXjPEg <br> 
+
 What you will learn:<br> 
-    - 1 <br> 
-    - 2 <br> 
-# Video 5
+- <br> 
+- <br>
 
-# Video 6
+<br> 
+
+# Episode 5 <br> 
+Link: https://youtu.be/scFe-UzZm2A <br> 
+
+What you will learn:<br> 
+- <br> 
+- <br>
+  
+<br> 
+
+# Episode 6 <br>
+Link: https://youtu.be/wyGunW0-uHc <br> 
+
+What you will learn:<br> 
+- <br> 
+- <br>
+
+<br> 
