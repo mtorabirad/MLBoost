@@ -10,11 +10,11 @@ If you have any questions about the contents of this repo, feel free to post it 
 - Episode 4: In point forecasting, best possible model may lose to a naive one if ...
 - Episode 5: Expected value is optimal under Mean Squared Error metric.
 - Episode 6: Median value is optimal under Mean Absolute Error metric.
-- Episode 7: Median of an auxiliary, with a density different than the target variable, is optimal under MAPE.  
+- Episode 7: Median of an auxiliary variable, with a density different than the target variable, is optimal under MAPE.  
 
 
 # Running the notebooks
-conda env create -f environment.yml
+conda env create -f MLBoost.yml
 
 # Episode 4: <br> 
 Link: https://youtu.be/ep3sQjXjPEg <br> 
