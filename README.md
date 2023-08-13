@@ -6,7 +6,7 @@ Materials associated with the MLBoost YouTube channel: https://www.youtube.com/@
 
 No | Video | Title
 ---|---|---
-1|<a href="https://www.youtube.com/watch?v=eHYjr1Zhb_4"><img src="https://img.youtube.com/vi/eHYjr1Zhb_4/hqdefault.jpg" alt="Reliable Forecasting: Evaluation - MAPE" title="Reliable Forecasting: Evaluation - MAPE" width="200" /></a> | [Reliable Forecasting: Evaluation - MAPE](https://youtu.be/oR670Txwh88)
+1|<a href="https://www.youtube.com/watch?v=eHYjr1Zhb_4"><img src="https://img.youtube.com/vi/eHYjr1Zhb_4/hqdefault.jpg" alt="Reliable Forecasting: Evaluation - MAPE" title="Reliable Forecasting: Evaluation - MAPE" width="200" /></a> | [Reliable Forecasting: Evaluation - MAPE](https://www.youtube.com/watch?v=eHYjr1Zhb_4)
 
 
 <br> 
