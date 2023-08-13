@@ -4,9 +4,14 @@ Materials associated with the MLBoost YouTube channel: https://www.youtube.com/@
 
 # Videos @ MLBoost YouTube channel
 
-No | Video | Title
----|---|---
-1|<a href="https://www.youtube.com/watch?v=eHYjr1Zhb_4"><img src="https://img.youtube.com/vi/eHYjr1Zhb_4/hqdefault.jpg" alt="Reliable Forecasting: Evaluation - MAPE" title="Reliable Forecasting: Evaluation - MAPE" width="200" /></a> | [Reliable Forecasting: Evaluation - MAPE](https://www.youtube.com/watch?v=eHYjr1Zhb_4)
+
+No | Video | Title and What you Will Learn
+---|---|------
+1 | <a href="https://www.youtube.com/watch?v=eHYjr1Zhb_4"><img src="https://img.youtube.com/vi/eHYjr1Zhb_4/hqdefault.jpg" alt="Reliable Forecasting: Evaluation - MAPE" title="Reliable Forecasting: Evaluation - MAPE" width="200" /></a> | [Reliable Forecasting: Evaluation - MAPE](https://www.youtube.com/watch?v=eHYjr1Zhb_4)<br> - First item <br> - Second item
+2 | <a href="https://www.youtube.com/watch?v=_uaJWg5eNpE"><img src="https://img.youtube.com/vi/_uaJWg5eNpE/hqdefault.jpg" alt="Reliable Forecasting: Evaluation - adjustedMAPE" title="Reliable Forecasting: Evaluation - adjustedMAPE" width="200" /></a> | [Reliable Forecasting: Evaluation -  adjustedMAPE](https://www.youtube.com/watch?v=_uaJWg5eNpE)<br> - First item <br> - Second item
+3 | <a href="https://www.youtube.com/watch?v=a_rofrCxciI"><img src="https://img.youtube.com/vi/a_rofrCxciI/hqdefault.jpg" alt="A Forecasting Competition" title="A Forecasting Competition" width="200" /></a> | [A Forecasting Competition](https://www.youtube.com/watch?v=a_rofrCxciI)<br> - First item <br> - Second item
+4 | <a href="https://www.youtube.com/watch?v=a_rofrCxciI"><img src="https://img.youtube.com/vi/a_rofrCxciI/hqdefault.jpg" alt="Best Possible Model May Lose to a Naive One if Evaluation Metric is Not Consistent with " title="Best Possible Model May Lose to a Naive One if Evaluation Metric is Not Consistent with " width="200" /></a> | [Best Possible Model May Lose to a Naive One if Evaluation Metric is Not Consistent with ](https://www.youtube.com/watch?v=a_rofrCxciI)<br> - First item <br> - Second item
+5 | <a href="https://www.youtube.com/watch?v=scFe-UzZm2A"><img src="https://img.youtube.com/vi/scFe-UzZm2A/hqdefault.jpg" alt="In ML Competitions, when the Error is MSE, Submit the Expected Value of Inferred Distribution." title="In ML Competitions, when the Error is MSE, Submit the Expected Value of Inferred Distribution." width="200" /></a> | [In ML Competitions, when the Error is MSE, Submit the Expected Value of Inferred Distribution.](https://www.youtube.com/watch?v=scFe-UzZm2A)<br> - First item <br> - Second item
 
 
 <br> 
