@@ -1,4 +1,6 @@
 import numpy as np
+# // q: What is 
+
 def importance_sampling(pdf, proposal, num_samples):
     """
     Importance sampling algorithm for generating samples from a given probability distribution function.
